@@ -1,0 +1,2 @@
+# afiliados
+GitHub Pages
